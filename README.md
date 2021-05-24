@@ -10,3 +10,7 @@ TensorFlow released the Speech Commands [Datasets](https://www.kaggle.com/c/tens
 - Untitled1.ipynb : it's an python script which take your voice input and predict as in text.
 
 #### Feel free to download and play with it :D
+
+
+https://user-images.githubusercontent.com/67750027/119375546-8ed1bd00-bcd8-11eb-80fa-ae1fdd1c171b.mp4
+
